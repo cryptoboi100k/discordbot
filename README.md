@@ -1,4 +1,4 @@
-Secure Trivia Challenge Bot
+Secure Guffal Trivia Challenge Bot
 
 The Secure Trivia Challenge Bot is a Discord bot designed to host interactive trivia games in your server. 
 
